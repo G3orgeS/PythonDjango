@@ -1,0 +1,19 @@
+Appar, bygga separata appar som man kan återanvända som komponenter. 
+Appar är hur data ska vara strukturerad. 
+UML diagram, vis data kan användas på olika platser.
+
+Projekt 
+    - URLs 
+    - Settings => INSTALLED_APPS
+Settings är platsen där jag bestämmer vilka appar jag vill använda. 
+
+ORM - Object Relational Mapping.
+
+M - Entitet som man väljer vad man kan lägga i det, koppla det till andra entiteter.
+V - TaskModel.objects.all() när man kan hämta all form av data. 
+T 
+S 
+
+
+
+
